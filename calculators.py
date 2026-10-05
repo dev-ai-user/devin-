@@ -2,10 +2,10 @@
 #hello  there is an calculator wehich is used to perform basic operation for calculation
    
 
-a = input("enter the first number ")
-b = input("enter the second number ")
-a =int(a)
-b = int(b)
+a = int
+(input("enter the first number "))
+b = int (input("enter the second number "))
+
 print ("the sum of the two nnumbers is :",a+b,)
 print ("the  subtraction of the two nnumbers is :",a-b,)
 print ("the percentage  of the two nnumbers is :",a%b,)
@@ -20,3 +20,11 @@ elif a-b==0:
     print(f"{a} = {b}  you are having the rarest items that is rolls royce phantom")
 else:
     print("better luck next time in the lockdown period we are giving you 1000 rs as a consolation prize ")
+  if  
+a+b==23:
+   if 
+   a-b==11:
+      print ("hello .py there is an error ")
+   else:
+      print ("you played well ")
+
